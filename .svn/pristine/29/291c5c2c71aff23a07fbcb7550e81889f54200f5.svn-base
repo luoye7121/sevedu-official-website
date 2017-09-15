@@ -1,0 +1,102 @@
+@charset "UTF-8";
+/*!Utilities/Sprites合成精灵图*/
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";
+.icons-sprite, .icons-arrow, .icons-long-string {
+  background-image: url('../images/icons-s80356ff779.png');
+  background-repeat: no-repeat; }
+
+.icons-arrow {
+  background-position: 0 0;
+  height: 26px;
+  width: 23px; }
+
+.icons-long-string {
+  background-position: 0 -26px;
+  height: 26px;
+  width: 3px; }
+
+/**
+ * !Vendor
+ */
+/*! normalize.css v3.0.0 | Base | MIT License | git.io/normalize */
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%; }
+
+body {
+  margin: 0; }
+
+/*! normalize.css v3.0.0 | Links | MIT License | git.io/normalize */
+a {
+  background: transparent; }
+
+a:active,
+a:hover {
+  outline: 0; }
+
+/*! normalize.css v3.0.0 | HTML5 Display Definitions | MIT License | git.io/normalize */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block; }
+
+audio,
+canvas,
+progress,
+video {
+  display: inline-block;
+  vertical-align: baseline; }
+
+audio:not([controls]) {
+  display: none;
+  height: 0; }
+
+[hidden],
+template {
+  display: none; }
+
+.banner {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  color: #fff; }
+  .banner h2 {
+    font-size: 38px;
+    margin: 0;
+    padding-top: 105px;
+    padding-left: 326px;
+    font-weight: 400; }
+  .banner p {
+    font-size: 14px;
+    padding-left: 326px;
+    width: 1155px;
+    line-height: 26px;
+    padding-top: 20px; }
+
+body {
+  overflow-x: hidden; }
+
+body, html {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  position: relative; }
+
+.index-content .index-side header {
+  width: 270px; }
+
+.index-content .index-side {
+  left: 0; }
+
+body {
+  overflow-x: hidden; }

@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>集团战略</title>
+	<meta charset="UTF-8"/>
+<meta name="keywords" content="赛文集团，赛文国际，赛文医药，赛文金融，赛文教育">
+<meta name="description" content="复星1992年在上海成立，2007年7月16日，复星国际(00656.HK)在香港联交所主板上市。复星坚持扎根中国，投资于中国成长根本动力，积极践行其“中国动力嫁接全球资源”的投资模式，矢志向“以保险为核心的综合金融能力”与“植根中国、有全球产业整合能力”双轮驱动的世界一流投资集团大步迈进。">
+<meta name="author" content="author,email address">
+<meta name="robots" content="index,follow">
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<link rel="shortcut icon" href="images/saiwen.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+<script type="text/javascript" src='js/jquery-1.11.3.min.js'></script>
+<script type="text/javascript" src='js/bootstrap.min.js'></script>
+<script type="text/javascript" src='js/jquery.cookie.js'></script>
+<script type="text/javascript" src='js/jquery.rotate.min.js'></script>
+<script type="text/javascript" src='js/side.js'></script>
+
+	<link rel="stylesheet" type="text/css" href="css/main.css"/>
+	<link rel="stylesheet" type="text/css" href="css/strategy.css"/>
+	<link rel="stylesheet" type="text/css" href="css/newdetail.css"/>
+	<!----> 
+	 <script type="text/javascript" src='js/newsdetail.js'></script>
+</head>
+<body>
+	
+	<div class="index-content">
+		<div class="index-side">
+<div class='header'>
+	<ol id='index-nav'>
+		<li class="index-logo"><a href=""><img src="images/logo.png"></a></li>
+		<li><a href="index.html"><i class='fa fa-fw fa-home'></i>首页</a></li>
+		<li><a href="strategy.html"><i class='fa fa-fw fa-puzzle-piece'></i>集团战略</a></li>
+		<li><a href="finance.html"><i class='fa fa-fw fa-usd'></i>智慧金融</a></li>
+		<li><a href="education.html"><i class='fa fa-fw fa-graduation-cap'></i>智慧教育</a></li>
+		<li><a href="road.html"><i class='fa fa-fw fa-send'></i>赛文之道</a></li>
+		<li class='index-sub'>
+		<a href="partner.html"><i class='fa fa-fw fa-user'></i>合作伙伴</a>
+		</li>
+		<li><a href="service.html"><i class='fa fa-fw fa-headphones'></i>金牌服务</a></li>
+		<li class='index-sub'>
+			<a href="view.html"><i class='fa fa-fw fa-plus'></i>关于我们</a>
+			<ol class='index-sub-nav' data-flag='false'>
+				<li><a href="view.html">赛文概览<span></span></a></li>
+				<li><a href="growth.html">成长历程<span></span></a></li>
+				<li><a href="new.html">赛文动态<span></span></a></li>
+				<li><a href="join.html">加入赛文<span></span></a></li>
+				<li><a href="contactus.html">联系我们<span></span></a></li>
+			</ol>
+		</li>
+		<li><a href="newdetail.html">新闻详情<span></span></a></li>
+	</ol>
+	<div class="nav-close icons-cartridge clearfix">
+		<div class="long-string"><img src="images/long-string.png"/></div>
+		<div class="long-arrow" id='arrow'><img src="images/arrows.png"></div>
+	</div>
+</div>
+<div class="foot">
+	<div class='footer'>
+	<!-- 	<dl class='clearfix'>
+		<dt>地址：</dt>
+		<dd style='color:#fff'>中国·北京朝阳区企发大<br/>厦A座5-6层</dd>
+	    </dl>
+	    <dl class="clearfix">
+	    <dt>邮编：</dt>
+		<dd>100029</dd>
+		</dl> -->
+		<!-- <dl class="clearfix">
+		<dt>电话：</dt>
+		<dd>86-10-62766288</dd>
+		</dl>
+		<dl class="clearfix">
+		<dt>传真:</dt>
+		<dd>86-10-84427877</dd>
+		</dl> -->
+		<dl class="clearfix">
+		<!-- <dt>邮箱:</dt>
+		<dd>sservice@sevedu.com</dd> -->
+		<dd style='color:#999'><img src='images/copyright.png'/>赛文集团 版权所有<br/>
+京ICP备08011557号</dd>
+	</dl>
+</div>
+</div>
+</div>
+
+	</div>
+	<div class='index-strategy'>
+		<div class="banner">
+	<h2>最新资讯</h2>
+	<p>
+		赛文集团以著名的“全管家全天候快速响应”的服务特点傲视业界。我们视服务为生命线与金字招牌，严苛制定了标准化的服务流程，真正做到贴近用户，倾听用户，帮助用户。经过十二年的摸索与沉淀，我们推出了六大类金牌服务。
+
+	</p>
+</div>
+<div class="newsdetail clearfix">
+	<div class="artical">
+		<h2 class='title'>解决方案荣获未来技术奖</h2>
+		<h6 class='time'>2017-05-22</h6>
+		<div class="describe">
+			<p>[美国奥兰多，2017年5月31日]近日，华为在美国奥兰多举办的SAPPHIRE NOW®上获得了2017 SAP HANA®创新奖荣誉奖。该奖项表彰了华为基于SAP HANA®平台和技术解决方案在行业内做出的杰出贡献和取得的领导地位。具体来说，SAP将该奖项授予华为 RH5885HV3，该系统帮助全球最大的乳制品出口商恒天然集团部署了基于SAP HANA的高效财赛文集团以著名的“全管家全天候快速响应”的服务特点傲视业界。我们视服务为生命线与金字招牌，严苛制定了标准化的服务流程，真正做到贴近用户，倾听用户，帮助用户。经过十二年的摸索与沉淀，我们推出了六大类金牌服务。
+务与供应链管理系统。SAPPHIRE NOW®是SAP的年度旗舰活动，也是全球首屈一指的商业技术活动和SAP最大的客户交流会议。AP HANA是一款业界领先的内存储数据库平台，可基于设备或云端部署，旨在分析和实时处理海量数据，抢占业务决策先机。</p>
+			<p>2016年，华为、SAP以及云计算外包服务提供商Datacom新西兰子公司三方强强联合，帮助恒天然集团部署基于SAP HANA的财务及供应链管理系统，满足了简单易用、高扩展性、高效等需求。通过在核心网络部署华为RH5885H V3四路机架服务器和SAP HANA，该解决方案实现了轻松快捷的实时支付分析，高效的账户检查和有洞察力的商业决策。华为RH5885H V3的独特之处在于，它采用华为ES3000 PCIe SSD卡作为数据库加速的HANA日志卷，使得SAP HANA的性能提升了3倍。</p>
+			<p>经全面认证的RH5885H V3一体机方案由Datacom新西兰子公司运行及维护支持，助力恒天然处理任何强度的工作负载，快速响应不断变化的业务需求。同时，通过高可靠的生产及灾备平台，确保了恒天然的系统数据高度安全。华为与Datacom新西兰子公司的合作，最大限度减少了因为平台故障而可能会引起的服务停机时间，实现系统整体性能最大化，帮助恒天然公司实现敏捷生产的新阶段，极大提升了生产效率。</p>
+			<p>华为IT服务器产品线总裁邱隆说：“我们很荣幸获得这一奖项。SAP HANA创新奖证明了华为的技术实力及其对SAP HANA平台和解决方案创新的坚定承诺，并突显了华为、SAP与我们的生态系统合作伙伴之间的紧密联系。”华为新西兰企业业务部总经理毛治表示：“我们有能力为恒天然这样的行业顶尖客户提供最好的解决方案。西兰市场上取得了长</p>
+		</div>
+	</div>
+	<div class="picture">
+		<img src="images/news_detail.jpg">
+		<img src="images/news_detail.jpg">
+	</div>
+</div>
+<div class="news_TOP fa fa-fw fa-arrow-circle-up"></div>
+	</div>
+	
+</body>
+</html>

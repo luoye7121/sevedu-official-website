@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>金牌服务</title>
+	<meta charset="UTF-8"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta name="keywords" content="赛文"><meta name="description" content="赛文">
+<meta name="author" content="author,email address"/>
+<meta name="robots" content="index,follow"/>
+<meta name="renderer" content="webkit"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<link rel="shortcut icon" href="images/saiwen.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+<script type="text/javascript" src='js/jquery-1.11.3.min.js'></script>
+<script type="text/javascript" src='js/bootstrap.min.js'></script>
+<script type="text/javascript" src='js/jquery.cookie.js'></script>
+<script type="text/javascript" src='js/jquery.rotate.min.js'></script>
+<script type="text/javascript" src='js/side.js'></script>
+
+	<link rel="stylesheet" type="text/css" href="css/main.css"/>
+	<link rel="stylesheet" type="text/css" href="css/service.css"/>
+	<!----> 
+	 <!-- <script type="text/javascript" src='js/jquery.mousewheel.js'></script> -->
+	 <!-- <script type="text/javascript" src='js/nicescroll.js'></script> -->
+	 <!-- <script type="text/javascript" src='js/partner.js'></script> -->
+</head>
+<body>
+	
+	<div class="index-content">
+		<div class="index-side">
+<header>
+	<ol id='index-nav'>
+		<li class="index-logo"><a href=""><img src="images/logo.png"></a></li>
+		<li><a href="index.html"><i class='fa fa-fw fa-home'></i>首页</a></li>
+		<li><a href="strategy.html"><i class='fa fa-fw fa-puzzle-piece'></i>集团战略</a></li>
+		<li><a href="finance.html"><i class='fa fa-fw fa-usd'></i>智慧金融</a></li>
+		<li><a href="education.html"><i class='fa fa-fw fa-graduation-cap'></i>智慧教育</a></li>
+		<li><a href="new.html"><i class='fa fa-fw fa-graduation-cap'></i>新闻中心</a></li>
+		<li class='index-sub'>
+		<a href="partner.html"><i class='fa fa-fw fa-user'></i>合作伙伴</a></li>
+		<li><a href="service.html"><i class='fa fa-fw fa-headphones'></i>金牌服务</a></li>
+		<li class='index-sub'>
+			<a href="view.html"><i class='fa fa-fw fa-plus'></i>关于我们</a>
+			<ol class='index-sub-nav' data-flag='false'>
+				<li><a href="view.html">赛文概览<span></span></a></li>
+				<li><a href="growth.html">成长历程<span></span></a></li>
+				<li><a href="join.html">赛文动态<span></span></a></li>
+			</ol>
+		</li>
+	</ol>
+	<div class="nav-close icons-cartridge clearfix">
+		<div class="long-string"><img src="images/long-string.png"/></div>
+		<div class="long-arrow" id='arrow'><img src="images/arrows.png"></div>
+	</div>
+</header>
+<div class="foot">
+	<footer>
+	<!-- 	<dl class='clearfix'>
+		<dt>地址：</dt>
+		<dd style='color:#fff'>中国·北京朝阳区企发大<br/>厦A座5-6层</dd>
+	    </dl>
+	    <dl class="clearfix">
+	    <dt>邮编：</dt>
+		<dd>100029</dd>
+		</dl> -->
+		<!-- <dl class="clearfix">
+		<dt>电话：</dt>
+		<dd>86-10-62766288</dd>
+		</dl>
+		<dl class="clearfix">
+		<dt>传真:</dt>
+		<dd>86-10-84427877</dd>
+		</dl> -->
+		<dl class="clearfix">
+		<!-- <dt>邮箱:</dt>
+		<dd>sservice@sevedu.com</dd> -->
+		<dd style='color:#999'><img src='images/copyright.png'/>赛文集团 版权所有<br/>
+京ICP备08011557号</dd>
+	</dl>
+</footer>
+</div>
+</div>
+
+	</div>
+	<div class='index-partner'>
+		<div class="banner">
+	<h2>金牌服务</h2>
+	<p>
+		赛文集团以著名的“全管家全天候快速响应”的服务特点傲视业界。我们视服务为生命线与金字招牌，严苛制定了标准化的服务流程，真正做到贴近用户，倾听用户，帮助用户。经过十二年的摸索与沉淀，我们推出了六大类金牌服务。
+	</p>
+</div>
+<div class="content">
+	<div class="item clearfix">
+		<div class="mark mark-one">
+			<h2><i class='fa fa-fw fa-headphones'></i><br/><span>售后服务</span></h2>
+		</div>
+		<div class="feature feature-one">
+			<table>
+					<tbody>
+						<tr>
+							<td><span>01</span>在线客服提供系统使用帮助</td>
+							<td><span>02</span>运维工程师提供技术支持</td>
+							<td><span>03</span>3天免费现场培训</td>
+						</tr>
+						<tr>
+							<td><span>04</span>服务器定期检测服务</td>
+							<td><span>05</span>技术人员随时待命应急处理</td>
+							<td><span>06</span>终身面得解决系统故障</td>
+						</tr>
+					</tbody>
+				</table>
+		</div>
+	</div>
+	<div class="item clearfix">
+		<div class="mark mark-two">
+			<h2><i class='fa fa-fw fa-microphone'></i><br/><span>咨询服务</span></h2>
+		</div>
+		<div class="feature feature-two">
+			<table>
+					<tbody>
+						<tr>
+							<td><span>01</span>协助与其他第三方平台洽谈</td>
+							<td><span>02</span>提供业务开展和运营咨询使
+资源利用最大化</td>
+							<td><span>03</span>上百家平台实施经验，
+为您提供合理的团队建设建议</td>
+						</tr>
+						<tr>
+							<td><span>04</span>提供经几十家平台共同验证
+的推广方案和建议</td>
+							<td><span>05</span>与多家行业培训机构合作，
+可提供优惠的培训课程</td>
+							<td><span>06</span>提供运维团队各类维护咨询，
+上百家实验得出的安全方案</td>
+						</tr>
+						<tr>
+							<td><span>07</span>提供各类业务产品模型建设
+方案</td>
+						</tr>
+					</tbody>
+				</table>
+		</div>
+	</div>
+	<div class="item clearfix">
+		<div class="mark mark-three">
+			<h2><i class='fa fa-fw fa-gear'></i><br/><span>配置服务</span></h2>
+		</div>
+		<div class="feature feature-three">
+			<table>
+					<tbody>
+						<tr>
+							<td><span>01</span>服务器账户安全策略设置排
+除资源共享隐患</td>
+							<td><span>02</span>调整服务器配置及定时作业初
+始化，使其处于最佳性能</td>
+							<td><span>03</span>上百家平台实施经验，
+为您提供合理的团队建设建议</td>
+						</tr>
+						<tr>
+							<td><span>04</span>服务器防火墙及端口设置</td>
+							<td><span>05</span>服务器杀毒软件配置</td>
+							<td><span>06</span>服务器操作系统其他安全配
+置</td>
+						</tr>
+						<tr>
+							<td><span>07</span>合理高效的组织架构参数与
+权限初始化设定</td>
+							<td><span>08</span>合同模板、债权清单、出借报
+告等客户协议类文书免费定制</td>
+							<td><span>09</span>提供可参考的科学产品模型
+参数配置</td>
+						</tr>
+						<tr>
+							<td><span>10</span>客户定制化流程环节处理人
+初始化设置</td>
+							<td><span>11</span>短信通道、第三方支付、平台
+收发邮箱等对接配置服务</td>
+							<td><span>12</span>ssl加密配置</td>
+						</tr>
+						<tr>
+							<td><span>13</span>统计代码嵌套</td>
+							<td><span>14</span>在线服务账号初始化</td>
+							<td><span>15</span>数据库系统、第三方软件备
+份机制初始化</td>
+						</tr>
+						<tr>
+							<td><span>16</span>测试环境部署</td>
+							<td><span>17</span>服务器变更部署</td>
+							<td><span>18</span>系统更新部署</td>
+						</tr>
+					</tbody>
+				</table>
+		</div>
+	</div>
+	<div class="item clearfix">
+		<div class="mark mark-four">
+			<h2><i class='fa fa-fw fa-thumbs-o-up'></i><br/><span>增值服务</span></h2>
+		</div>
+		<div class="feature feature-four">
+			<table>
+					<tbody>
+						<tr>
+							<td><span>01</span>短信发送通道免费对接</td>
+							<td><span>02</span>4位从业5年以上的专家级产品
+经理为功能设计提供支持</td>
+							<td><span>03</span>采购经理全天待位，提供一
+站式采购方案</td>
+						</tr>
+						<tr>
+							<td><span>04</span>项目经理提供私人管家级项
+目管理，24小时待命，快速
+响应</td>
+							<td><span>05</span>专业人员为企业组织结构、岗
+位、角色、流程提供梳理服务</td>
+							<td><span>06</span>可视化全套原型设计，所见
+即所得</td>
+						</tr>
+						<tr>
+							<td><span>07</span>经上百家企业验证的上线工
+艺，专业、严谨、可靠</td>
+							<td><span>08</span>协助企业人才招聘</td>
+						</tr>
+					</tbody>
+				</table>
+		</div>
+	</div>
+	<div class="item clearfix">
+		<div class="mark mark-five">
+			<h2><i class='fa fa-fw fa-pencil-square-o'></i><br/><span>设计服务</span></h2>
+		</div>
+		<div class="feature feature-five">
+			<table>
+					<tbody>
+						<tr>
+							<td><span>01</span>资深美工设计网站宣传图</td>
+							<td><span>02</span>专业UI工程师定制网站页面</td>
+							<td><span>03</span>调试网站兼容性</td>
+						</tr>
+						<tr>
+							<td><span>04</span>设计SEO关键词和描述</td>
+							<td><span>05</span>设计线下推广宣传册</td>
+						</tr>
+					</tbody>
+				</table>
+		</div>
+	</div>
+	<div class="item clearfix">
+		<div class="mark mark-six">
+			<h2><i class='fa fa-fw fa-tag'></i><br/><span>其他特色服务</span></h2>
+		</div>
+		<div class="feature feature-six">
+			<table>
+					<tbody>
+						<tr>
+							<td><span>01</span>域名非经营性ICP备案</td>
+							<td><span>02</span>专业域名解析，稳定安全</td>
+							<td><span>03</span>专业运维团队上百次实验得
+出的安全方案</td>
+						</tr>
+						<tr>
+							<td><span>04</span>提供法务咨询和成熟的合同
+模板，降低法律风险</td>
+							<td><span>05</span>互联网金融专家合作，提供专
+业的平台发展规划建议</td>
+							<td><span>06</span>平台SEO优化建议</td>
+						</tr>
+						<tr>
+							<td><span>07</span>提供全方位推广建议</td>
+							<td><span>08</span>7大账号全包注册（微信、微博账号、企业邮箱、400电话、在线客服号、网站统计账号、短信账号）</td>
+							<td><span>09</span>互联网金融专家合作，提供
+专业的平台发展规划建议</td>
+						</tr>
+					</tbody>
+				</table>
+		</div>
+	</div>
+</div>
+	</div>
+	
+</body>
+</html>

@@ -1,0 +1,20 @@
+<div class='strategy'>
+	<div class='strategy-title'>
+		<h2>集团战略<span>双轮驱动的独角兽</span></h2>
+	</div>
+	<div class='strategy-substance'>
+		<dl>
+			<dt><span></span>双轮驱动</dt>
+			<dd>
+				<p>智慧金融  大数据优化资源整合，云技术深挖数据价值
+</p>
+				<p> 智慧教育  世界一流的数字资源，个性多元的学习路径</p>
+			</dd>
+			<dt><span></span>独角兽</dt>
+			<dd>
+				<p> 专注于数据资源的采集、分析、优化、整合，致力于<br/>为客户提供更专业、更智能的数据资源整体解决方案</p>
+				<!-- <p>致力于为客户提供更专业、更智能的数据资源整体解决方案</p> -->
+			</dd>
+		</dl>
+	</div>
+</div>

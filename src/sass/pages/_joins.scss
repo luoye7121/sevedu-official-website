@@ -1,0 +1,58 @@
+body{
+	overflow-x:hidden;
+}
+body,html{
+	background:none;
+}
+$border:1px solid #c3c3c3;
+$item:#c0665e #01b4f6 #f09605 #98d24a #4f94e7 #ff897f #097c25 #abc6e2;
+$len:length($item);
+@for $i from 1 through $len {
+	.item#{$i}{
+		border-left:5px solid nth($item,$i);
+	}
+}
+.banner{background:url("../images/join.jpg") no-repeat left top;background-size:cover;}
+.content{
+	width:960px;
+	margin-left:325px;
+	h2{
+				font-size:16px;
+				font-family:"Microsoft YaHei", serif,"source-sans-pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+				font-weight:normal;
+				line-height:60px;
+				height:60px;
+				margin:0;
+			}
+	.item{
+		border-right:$border;
+		border-top:$border;
+		border-bottom:$border;
+		margin-top:0;
+		margin-bottom:0;
+		dt{		font-family:"Microsoft YaHei", serif,"source-sans-pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+				font-weight:normal;
+				font-size:14px;
+				font-weight: normal;
+				margin:0;	
+				line-height:42px;
+				height:42px;
+				padding-top:9px;
+				padding-left:20px;
+		}
+		dd{
+			padding-left:35px;
+			p{
+				font-size:14px;
+				line-height:34px;
+				margin:0;
+			}
+		}
+	}
+	.item8{
+		margin-bottom:30px;
+	}
+}
+.index-content {
+     left: 0px!important;
+}

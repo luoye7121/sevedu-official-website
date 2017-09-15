@@ -1,0 +1,239 @@
+@charset "UTF-8";
+/*!Utilities/Sprites合成精灵图*/
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";
+.icons-sprite, .icons-arrow, .icons-long-string {
+  background-image: url('../images/icons-s80356ff779.png');
+  background-repeat: no-repeat; }
+
+.icons-arrow {
+  background-position: 0 0;
+  height: 26px;
+  width: 23px; }
+
+.icons-long-string {
+  background-position: 0 -26px;
+  height: 26px;
+  width: 3px; }
+
+/**
+ * !Vendor
+ */
+/*! normalize.css v3.0.0 | Base | MIT License | git.io/normalize */
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%; }
+
+body {
+  margin: 0; }
+
+/*! normalize.css v3.0.0 | Links | MIT License | git.io/normalize */
+a {
+  background: transparent; }
+
+a:active,
+a:hover {
+  outline: 0; }
+
+/*! normalize.css v3.0.0 | HTML5 Display Definitions | MIT License | git.io/normalize */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block; }
+
+audio,
+canvas,
+progress,
+video {
+  display: inline-block;
+  vertical-align: baseline; }
+
+audio:not([controls]) {
+  display: none;
+  height: 0; }
+
+[hidden],
+template {
+  display: none; }
+
+.banner {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  color: #fff; }
+  .banner h2 {
+    font-size: 38px;
+    margin: 0;
+    padding-top: 105px;
+    padding-left: 326px;
+    font-weight: 400; }
+  .banner p {
+    font-size: 14px;
+    padding-left: 326px;
+    width: 1155px;
+    line-height: 26px;
+    padding-top: 20px; }
+
+body {
+  overflow-x: hidden; }
+
+body, html {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  position: relative; }
+
+.index-content .index-side header {
+  width: 270px; }
+
+.index-side .header {
+  overflow: hidden; }
+
+.index-side .header #index-nav {
+  margin-top: 10px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  width: 300px; }
+
+.slideout {
+  width: 100%;
+  height: 100%;
+  display: none;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 10; }
+
+body {
+  overflow-x: hidden; }
+
+body, html {
+  background: none;
+  background: url("../images/sevice.jpg") no-repeat left top;
+  background-size: cover; }
+
+.index-content {
+  left: 0px !important; }
+
+.banner {
+  background: url("../images/service.jpg") no-repeat left top;
+  background-size: cover; }
+
+.content {
+  margin-left: 316px;
+  margin-top: 38px;
+  width: 1028px; }
+  .content .item {
+    margin-bottom: 20px;
+    border: 1px solid #c3c3c3;
+    overflow: hidden; }
+    .content .item .mark {
+      float: left;
+      width: 197px; }
+      .content .item .mark h2 {
+        color: #fff;
+        margin: 0;
+        width: 197px;
+        text-align: center;
+        vertical-align: middle;
+        display: table-cell; }
+        .content .item .mark h2 i {
+          display: inline-block;
+          width: 95px;
+          height: 95px;
+          border: 3px solid #fff;
+          border-radius: 50%;
+          color: #fff;
+          line-height: 95px;
+          font-size: 50px; }
+        .content .item .mark h2 span {
+          font-size: 14px;
+          font-weight: normal; }
+    .content .item .mark-one {
+      height: 248px;
+      background: #c0665e;
+      line-height: 248px; }
+      .content .item .mark-one h2 {
+        height: 248px; }
+    .content .item .mark-two {
+      height: 373px;
+      background: #1eb6e8;
+      line-height: 373px; }
+      .content .item .mark-two h2 {
+        height: 373px; }
+    .content .item .mark-three {
+      height: 743px;
+      background: #f09604;
+      line-height: 743px; }
+      .content .item .mark-three h2 {
+        height: 743px; }
+    .content .item .mark-four {
+      height: 393px;
+      background: #98d24a;
+      line-height: 393px; }
+      .content .item .mark-four h2 {
+        height: 393px; }
+    .content .item .mark-five {
+      height: 248px;
+      background: #ff897f;
+      line-height: 248px; }
+      .content .item .mark-five h2 {
+        height: 248px; }
+    .content .item .mark-six {
+      height: 424px;
+      background: #5094e7;
+      line-height: 424px; }
+      .content .item .mark-six h2 {
+        height: 424px; }
+    .content .item .feature {
+      float: left; }
+      .content .item .feature td {
+        width: 260px;
+        padding-left: 34px;
+        font-size: 16px;
+        color: #333;
+        padding-bottom: 22px; }
+      .content .item .feature span {
+        display: block;
+        font-size: 24px;
+        padding-top: 13px;
+        padding-bottom: 18px; }
+    .content .item .feature-one {
+      height: 248px;
+      overflow: hidden; }
+      .content .item .feature-one span {
+        color: #c0665e; }
+    .content .item .feature-two {
+      height: 373px;
+      overflow: hidden; }
+      .content .item .feature-two span {
+        color: #1eb6e8; }
+    .content .item .feature-three {
+      height: 743px;
+      overflow: hidden; }
+      .content .item .feature-three span {
+        color: #f09604; }
+    .content .item .feature-four {
+      height: 393px;
+      overflow: hidden; }
+      .content .item .feature-four span {
+        color: #98d24a; }
+    .content .item .feature-five {
+      height: 248px;
+      overflow: hidden; }
+      .content .item .feature-five span {
+        color: #ff897f; }
+    .content .item .feature-six {
+      height: 424px;
+      overflow: hidden; }
+      .content .item .feature-six span {
+        color: #5094e7; }

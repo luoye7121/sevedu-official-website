@@ -1,0 +1,79 @@
+<div class="banner">
+	<h2>合作伙伴</h2>
+	<p>
+		赛文集团秉承“与合作伙伴互利共赢，携手发展”的理念，为合作伙伴提供智慧产品与卓越服务。迄今为止，我们的合作伙伴遍及全国21个省、市、自治区，超过300家金融机构、大专院校、科研院所与公共图书馆。
+	</p>
+</div>
+<!-- <div class="news clearfix">
+	<div class="item">
+		<dl>
+			<dt><img src='images/news-01.jpg' alt='学问杯'/></dt>
+			<dd>赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯</dd>
+			<dd class='time'>2017-06-03</dd>
+		</dl>
+	</div>
+	<div class="item">
+		<dl>
+			<dt><img src='images/news-01.jpg' alt='学问杯'/></dt>
+			<dd>赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯</dd>
+			<dd class='time'>2017-06-03</dd>
+		</dl>
+	</div>
+	<div class="item">
+		<dl>
+			<dt><img src='images/news-01.jpg' alt='学问杯'/></dt>
+			<dd>赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯</dd>
+			<dd class='time'>2017-06-03</dd>
+		</dl>
+	</div>
+	<div class="item">
+		<dl>
+			<dt><img src='images/news-01.jpg' alt='学问杯'/></dt>
+			<dd>赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯</dd>
+			<dd class='time'>2017-06-03</dd>
+		</dl>
+	</div>
+	<div class="item">
+		<dl>
+			<dt><img src='images/news-01.jpg' alt='学问杯'/></dt>
+			<dd>赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯</dd>
+			<dd class='time'>2017-06-03</dd>
+		</dl>
+	</div>
+	<div class="item">
+		<dl>
+			<dt><img src='images/news-01.jpg' alt='学问杯'/></dt>
+			<dd>赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯</dd>
+			<dd class='time'>2017-06-03</dd>
+		</dl>
+	</div>
+	<div class="item">
+		<dl>
+			<dt><img src='images/news-01.jpg' alt='学问杯'/></dt>
+			<dd>赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯</dd>
+			<dd class='time'>2017-06-03</dd>
+		</dl>
+	</div>
+	<div class="item">
+		<dl>
+			<dt><img src='images/news-01.jpg' alt='学问杯'/></dt>
+			<dd>赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯</dd>
+			<dd class='time'>2017-06-03</dd>
+		</dl>
+	</div>
+	<div class="item">
+		<dl>
+			<dt><img src='images/news-01.jpg' alt='学问杯'/></dt>
+			<dd>赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯赛文学问杯</dd>
+			<dd class='time'>2017-06-03</dd>
+		</dl>
+	</div>
+</div> -->
+<div class="news">
+	<div id="wrapper">
+		<section>
+			<div class="data-container"></div>
+			<div id="pagination-pages" class='pagination'></div>
+		</section>
+	</div>
+</div>

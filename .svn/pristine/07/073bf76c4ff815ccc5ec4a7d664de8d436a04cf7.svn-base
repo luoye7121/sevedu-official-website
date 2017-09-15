@@ -1,0 +1,47 @@
+<div class="banner">
+	<h2>合作伙伴</h2>
+	<p>
+		赛文集团秉承“与合作伙伴互利共赢，携手发展”的理念，为合作伙伴提供智慧产品与卓越服务。迄今为止，我们的合作伙伴遍及全国21个省、市、自治区，超过300家金融机构、大专院校、科研院所与公共图书馆。
+	</p>
+</div>
+<div class="content">
+	<div class="copartner">
+		<img src='images/strategy-l.png'></img>
+	</div>
+	<div class="school">
+		<ul class='clearfix'>
+			<li><img src="images/school1.jpg" alt="院校"></li>
+			<li><img src="images/school2.jpg" alt="院校"></li>
+			<li><img src="images/school3.jpg" alt="院校"></li>
+			<li><img src="images/school4.jpg" alt="院校"></li>
+			<li><img src="images/school5.jpg" alt="院校"></li>
+			<li><img src="images/school6.jpg" alt="院校"></li>
+			<li><img src="images/school7.jpg" alt="院校"></li>
+			<li class='clear-margin'><img src="images/school8.jpg" alt="院校"></li>
+			<li><img src="images/school9.jpg" alt="院校"></li>
+			<li><img src="images/school10.jpg" alt="院校"></li>
+			<li><img src="images/school11.jpg" alt="院校"></li>
+			<li><img src="images/school12.jpg" alt="院校"></li>
+			<li><img src="images/school13.jpg" alt="院校"></li>
+			<li><img src="images/school14.jpg" alt="院校"></li>
+			<li><img src="images/school15.jpg" alt="院校"></li>
+			<li class='clear-margin'><img src="images/school16.jpg" alt="院校"></li>
+			<li><img src="images/school17.jpg" alt="院校"></li>
+			<li><img src="images/school18.jpg" alt="院校"></li>
+			<li><img src="images/school19.jpg" alt="院校"></li>
+			<li><img src="images/school20.jpg" alt="院校"></li>
+			<li><img src="images/school21.jpg" alt="院校"></li>
+			<li><img src="images/school22.jpg" alt="院校"></li>
+			<li><img src="images/school23.jpg" alt="院校"></li>
+			<li class='clear-margin'><img src="images/school24.jpg" alt="院校"></li>
+			<li><img src="images/school25.jpg" alt="院校"></li>
+			<li><img src="images/school26.jpg" alt="院校"></li>
+			<li><img src="images/school27.jpg" alt="院校"></li>
+			<li><img src="images/school28.jpg" alt="院校"></li>
+			<li><img src="images/school29.jpg" alt="院校"></li>
+			<li ><img src="images/school30.jpg" alt="院校"></li>
+			<li ><img src="images/school31.jpg" alt="院校"></li>
+			<li class='clear-margin'><img src="images/school32.jpg" alt="院校"></li>
+		</ul>
+	</div>
+</div>

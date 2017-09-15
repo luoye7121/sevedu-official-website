@@ -1,0 +1,34 @@
+body{
+	overflow-x:hidden;
+}
+body,html{
+	
+	width:100%;
+	height:100%;
+	background-size:cover;
+	position:relative;
+}
+.index-content .index-side header{
+	width:270px;
+}
+.index-content .index-side{
+	
+}
+.index-side .header{
+	overflow:hidden;
+}
+.index-side .header #index-nav{
+	margin-top:10px;
+	// height:450px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	width: 300px;
+}
+.slideout{
+	width:100%;height:100%;
+	display:none;
+	position:fixed;
+	left:0;
+	top:0;
+	z-index:10;
+}

@@ -1,0 +1,24 @@
+/*!Utilities/Sprites合成精灵图*/
+@import  "compass/utilities/sprites";//精灵图插件
+@import "icons/*.png";//需要转换的精灵图片
+                     
+$icons-sprite-dimensions:true;
+@include all-icons-sprites;//引用生成的图片类
+
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";//字体图标
+/**
+ * !Vendor
+ */
+@import 
+"compass"
+,"susy"
+,"normalize-version"
+,"normalize/base"
+, "normalize/links"
+, "normalize/html5"
+;
+@import "base/banner"
+;
+@import "pages/side"
+, "pages/abouts"
+;

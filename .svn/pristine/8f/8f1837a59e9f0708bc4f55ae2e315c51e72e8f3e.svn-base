@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>成长历程</title>
+	<meta charset="UTF-8"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta name="keywords" content="赛文"><meta name="description" content="赛文">
+<meta name="author" content="author,email address"/>
+<meta name="robots" content="index,follow"/>
+<meta name="renderer" content="webkit"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<link rel="shortcut icon" href="images/saiwen.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+<script type="text/javascript" src='js/jquery-1.11.3.min.js'></script>
+<script type="text/javascript" src='js/bootstrap.min.js'></script>
+<script type="text/javascript" src='js/jquery.cookie.js'></script>
+<script type="text/javascript" src='js/jquery.rotate.min.js'></script>
+<script type="text/javascript" src='js/side.js'></script>
+
+	<link rel="stylesheet" type="text/css" href="css/main.css"/>
+	<link rel="stylesheet" type="text/css" href="css/growth.css"/>
+	<script type="text/javascript" src='js/growth.js'></script>
+</head>
+<body>
+	
+	<div class="index-content">
+		<div class="index-side">
+<header>
+	<ol id='index-nav'>
+		<li class="index-logo"><a href=""><img src="images/logo.png"></a></li>
+		<li><a href="index.html"><i class='fa fa-fw fa-home'></i>首页</a></li>
+		<li><a href="strategy.html"><i class='fa fa-fw fa-puzzle-piece'></i>集团战略</a></li>
+		<li><a href="finance.html"><i class='fa fa-fw fa-usd'></i>智慧金融</a></li>
+		<li><a href="education.html"><i class='fa fa-fw fa-graduation-cap'></i>智慧教育</a></li>
+		<li><a href="road.html"><i class='fa fa-fw fa-send'></i>赛文之道</a></li>
+		<li class='index-sub'>
+		<a href="partner.html"><i class='fa fa-fw fa-user'></i>合作伙伴</a>
+		<ol class='index-sub-nav' data-flag='false'>
+				<li><a href="view.html">赛文概览<span></span></a></li>
+				<li><a href="growth.html">成长历程<span></span></a></li>
+				<li><a href="dynamic.html">赛文动态<span></span></a></li>
+			</ol>
+		</li>
+		<li><a href="service.html"><i class='fa fa-fw fa-headphones'></i>金牌服务</a></li>
+		<li class='index-sub'>
+			<a href="view.html"><i class='fa fa-fw fa-plus'></i>关于我们</a>
+			<ol class='index-sub-nav' data-flag='false'>
+				<li><a href="view.html">赛文概览<span></span></a></li>
+				<li><a href="growth.html">成长历程<span></span></a></li>
+				<li><a href="new.html">赛文动态<span></span></a></li>
+			</ol>
+		</li>
+		<li><a href="newdetail.html">新闻详情<span></span></a></li>
+	</ol>
+	<div class="nav-close icons-cartridge clearfix">
+		<div class="long-string"><img src="images/long-string.png"/></div>
+		<div class="long-arrow" id='arrow'><img src="images/arrows.png"></div>
+	</div>
+</header>
+<div class="foot">
+	<footer>
+	<!-- 	<dl class='clearfix'>
+		<dt>地址：</dt>
+		<dd style='color:#fff'>中国·北京朝阳区企发大<br/>厦A座5-6层</dd>
+	    </dl>
+	    <dl class="clearfix">
+	    <dt>邮编：</dt>
+		<dd>100029</dd>
+		</dl> -->
+		<!-- <dl class="clearfix">
+		<dt>电话：</dt>
+		<dd>86-10-62766288</dd>
+		</dl>
+		<dl class="clearfix">
+		<dt>传真:</dt>
+		<dd>86-10-84427877</dd>
+		</dl> -->
+		<dl class="clearfix">
+		<!-- <dt>邮箱:</dt>
+		<dd>sservice@sevedu.com</dd> -->
+		<dd style='color:#999'><img src='images/copyright.png'/>赛文集团 版权所有<br/>
+京ICP备08011557号</dd>
+	</dl>
+</footer>
+</div>
+</div>
+
+	</div>
+	<div class='index-growth'>
+		<div class="content">
+	<h2>成长历程</h2>
+	<dl class="item item1">
+		<dt>2005</dt>
+		<dd>公司成立于北京市海淀区中关村，同年成为国内外多款电子资源数据库产品分销商</dd>
+	</dl>	
+	<dl class="item item2">
+		<dt>2006</dt>
+		<dd>自主研发出面向教育行业的数据库产品</dd>
+	</dl>
+	<dl class="item item3">
+		<dt>2007</dt>
+		<dd>成为北京大学、中国人民大学等985高校正式合作伙伴</dd>
+	</dl>
+	<dl class="item item4">
+		<dt>2009</dt>
+		<dd>成为中国高等教育文献保障系统（CALIS）正式技术合作伙伴</dd>
+	</dl>
+	<dl class="item item5">
+		<dt>2010</dt>
+		<dd>年被评为北京市优秀高新技术企业，拥有多项专利和自主知识产权软件产品</dd>
+	</dl>
+	<dl class="item item6">
+		<dt>2011</dt>
+		<dd>年引入美国同期医学教育视频资源，结合智能大数据平台，开发出具有国内领先水平的《赛文国际医学点播课堂》，产品一经投放市场，即引起包括协和医科大学在内的国内顶尖医科院校的高度认可</dd>
+	</dl>
+	<dl class="item item7">
+		<dt>2012</dt>
+		<dd>成为中国科学院路透金融实验室独家技术合作伙伴，同年正式启动“智慧金融+智慧教育”双轮驱动战略</dd>
+	</dl>
+	<dl class="item item8">
+		<dt>2014</dt>
+		<dd>深入与中国科学院战略合作，与中科院联合培养技术团队，夯实企业整体研发实力</dd>
+	</dl>
+	<dl class="item item9">
+		<dt>2015</dt>
+		<dd>年成为成思危教授担任名誉主任的中国科学院大数据挖掘与知识管理重点实验室合作伙伴</dd>
+	</dl>
+	<dl class="item item10">
+		<dt>2016</dt>
+		<dd>年研发出具有国际领先水平的、基于慕课（MOOC）模式的《学问网全媒体自主学习库》系列产品，开创了业内大数据智慧教育的先河。</dd>
+	</dl>
+</div>
+	</div>
+	
+</body>
+</html>

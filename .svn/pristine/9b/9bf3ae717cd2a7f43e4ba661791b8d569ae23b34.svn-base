@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>新闻中心</title>
+	<meta charset="UTF-8"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta name="keywords" content="赛文"><meta name="description" content="赛文">
+<meta name="author" content="author,email address"/>
+<meta name="robots" content="index,follow"/>
+<meta name="renderer" content="webkit"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<link rel="shortcut icon" href="images/sai.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+<script type="text/javascript" src='js/jquery-1.11.3.min.js'></script>
+<script type="text/javascript" src='js/bootstrap.min.js'></script>
+<script type="text/javascript" src='js/jquery.cookie.js'></script>
+<script type="text/javascript" src='js/jquery.rotate.min.js'></script>
+<script type="text/javascript" src='js/side.js'></script>
+
+	<link rel="stylesheet" type="text/css" href="css/main.css"/>
+	<link rel="stylesheet" type="text/css" href="css/new.css"/>
+	 <!----> 
+	 <!-- <script type="text/javascript" src='js/jquery.mousewheel.js'></script> -->
+	 <!-- <script type="text/javascript" src='js/nicescroll.js'></script> -->
+	 <script type="text/javascript" src='js/pagination.min.js'></script>
+	 <script type="text/javascript" src='js/new.js'></script>
+</head>
+<body>
+	
+	<div class="index-content">
+		<div class="index-side">
+<header>
+	<ol id='index-nav'>
+		<li class="index-logo"><a href=""><img src="images/logo.png"></a></li>
+		<li><a href="index.html"><i class='fa fa-fw fa-home'></i>首页</a></li>
+		<li><a href="strategy.html"><i class='fa fa-fw fa-puzzle-piece'></i>集团战略</a></li>
+		<li><a href="finance.html"><i class='fa fa-fw fa-usd'></i>智慧金融</a></li>
+		<li><a href="education.html"><i class='fa fa-fw fa-graduation-cap'></i>智慧教育</a></li>
+		<li><a href="road.html"><i class='fa fa-fw fa-send'></i>赛文之道</a></li>
+		<li class='index-sub'>
+		<a href="partner.html"><i class='fa fa-fw fa-user'></i>合作伙伴</a></li>
+		<li><a href="service.html"><i class='fa fa-fw fa-headphones'></i>金牌服务</a></li>
+		<li class='index-sub'>
+			<a href="view.html"><i class='fa fa-fw fa-plus'></i>关于我们</a>
+			<ol class='index-sub-nav' data-flag='false'>
+				<li><a href="view.html">赛文概览<span></span></a></li>
+				<li><a href="growth.html">成长历程<span></span></a></li>
+				<li><a href="new.html">赛文动态<span></span></a></li>
+			</ol>
+		</li>
+	</ol>
+	<div class="nav-close icons-cartridge clearfix">
+		<div class="long-string"><img src="images/long-string.png"/></div>
+		<div class="long-arrow" id='arrow'><img src="images/arrows.png"></div>
+	</div>
+</header>
+<div class="foot">
+	<footer>
+	<!-- 	<dl class='clearfix'>
+		<dt>地址：</dt>
+		<dd style='color:#fff'>中国·北京朝阳区企发大<br/>厦A座5-6层</dd>
+	    </dl>
+	    <dl class="clearfix">
+	    <dt>邮编：</dt>
+		<dd>100029</dd>
+		</dl> -->
+		<!-- <dl class="clearfix">
+		<dt>电话：</dt>
+		<dd>86-10-62766288</dd>
+		</dl>
+		<dl class="clearfix">
+		<dt>传真:</dt>
+		<dd>86-10-84427877</dd>
+		</dl> -->
+		<dl class="clearfix">
+		<!-- <dt>邮箱:</dt>
+		<dd>sservice@sevedu.com</dd> -->
+		<dd style='color:#999'><img src='images/copyright.png'/>赛文集团 版权所有<br/>
+京ICP备08011557号</dd>
+	</dl>
+</footer>
+</div>
+</div>
+
+	</div>
+	<div class='index-new'>
+		<div class="banner">
+	<h2>合作伙伴</h2>
+	<p>
+		赛文集团以著名的“全管家全天候快速响应”的服务特点傲视业界。我们视服务为生命线与金字招牌，严苛制定了标准化的服务流程，真正做到贴近用户，倾听用户，帮助用户。经过十二年的摸索与沉淀，我们推出了六大类金牌服务。
+	</p>
+</div>
+<div id="wrapper">
+	<section>
+		<div class="data-container"></div>
+		<div id="pagination-pages"></div>
+	</section>
+</div>
+	</div>
+	
+</body>
+</html>

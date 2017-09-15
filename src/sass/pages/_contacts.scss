@@ -1,0 +1,66 @@
+body{
+	overflow-x:hidden;
+}
+.index-content {
+      left:0px!important;
+}
+.index-side .header{
+	width:270px;
+}
+body,html{
+	background:#fff;
+	position:relative;
+	
+}
+.banner{background:url("../images/contactus.jpg") no-repeat left top;background-size:cover;}
+.contactus-content{
+width:1338px;
+padding:26px 0 0 316px;
+}
+.map{
+	width:548px;height:350px;border:#ccc solid 1px;
+	float:left;
+	margin-top: 46px;
+	
+	.bottom{
+		height:25px!important;
+		
+	}
+	.center{
+		width:252px!important;
+	}
+}
+    .iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+    .iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
+    .BMap_Marker{
+    	width:180px!important;
+    }
+.detail{
+	float:left;
+	padding-left:26px;
+	h2{
+		font-size:16px;
+		color:#333;
+		padding:24px 0;
+		border-bottom:1px  solid  #d1d1d1;
+		font-weight: 700;
+
+	}
+	ul {
+		padding:0;
+		margin:0;
+		li{
+		list-style:none;
+		font-size:14px;
+		color:#333;
+		line-height:40px;
+		height:40px;
+		span{
+			font-size:16px;
+			padding-right:18px;
+			display: inline-block;
+			width: 30px;
+		}
+		}
+	}
+}

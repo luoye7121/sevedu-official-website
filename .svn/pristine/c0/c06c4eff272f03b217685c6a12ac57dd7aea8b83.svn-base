@@ -1,0 +1,1 @@
+$(function(){$top=["168px","206px","295px","326px","334px","220px","470px","492px","415px","544px"],$(".item").each(function(p,x){$(this).animate({top:$top[p]},200*p,function(){})})});

@@ -1,0 +1,15 @@
+@import "side";
+body{
+	overflow-x:hidden;
+}
+.index-side .header{
+	width:270px;
+}
+body,html{
+	background:url("../images/bg-view.jpg") no-repeat left top;
+	background-size:cover;
+}
+p{
+	width:730px;
+	padding:26px 21px;
+}

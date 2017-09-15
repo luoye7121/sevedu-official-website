@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>智慧教育</title>
+	@@include('build/meta.html')
+	<link rel="stylesheet" type="text/css" href="css/main.css"/>
+	<link rel="stylesheet" type="text/css" href="css/education.css"/>
+	<!----> 
+	 <script type="text/javascript" src='js/jquery.mousewheel.js'></script>
+	 <script type="text/javascript" src='js/nicescroll.js'></script>
+	 <script type="text/javascript" src='js/education.js'></script>
+</head>
+<body>
+	
+	<div class="index-content">
+		@@include('build/side.html')
+	</div>
+	<div class='index-education'>
+		@@include('build/educations.html')
+	</div>
+	
+</body>
+</html>

@@ -1,0 +1,58 @@
+body{
+	overflow-x:hidden;
+}
+body,html{
+	background:url("../images/index-sied1.jpg") no-repeat left top;
+	background-size:cover;
+}
+.strategy{
+	
+	color:#fff;
+	.strategy-title{
+		position:absolute;
+		left:0px;
+		// top:203px;
+		top:80px;
+		h2{
+			font-size:38px;
+			span{
+				font-size:28px;
+				padding-left:18px;
+			}
+		}
+	}
+	.strategy-substance{
+		position:absolute;
+		left:440px;
+		top:160px;
+		display:none;
+		// top:293px;
+		background:#333;
+		opacity:0.8;
+		margin-top:30px;
+		dl{
+			padding:20px;
+			dt{
+				padding-bottom:15px;
+				font-size:24px;
+				span{
+					width:15px;
+					height:15px;
+					display:inline-block;
+					vertical-align:middle;
+					border:1px solid #fff;
+					border-radius:50%;
+					margin-right:16px;
+				}
+			}
+			dd{ padding-left:30px;
+				p{
+					line-height:31px;
+					// height:31px;
+					font-size:14px;
+					}
+			}
+		}
+	}
+	
+}

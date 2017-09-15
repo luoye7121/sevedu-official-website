@@ -1,0 +1,1 @@
+$(function(){$(".index-content").height($(document.body).outerHeight(!0)),$("body").height($(document.body).outerHeight(!0)),$(".strategy-title").eq(0).animate({left:"440px"},2e3,function(){$(".strategy-substance").eq(0).fadeIn()})});

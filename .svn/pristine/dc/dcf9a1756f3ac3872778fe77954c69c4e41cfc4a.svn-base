@@ -1,0 +1,51 @@
+
+<div class="surface">
+<div class="rotate">
+	<img id='rotate' align="" src="images/rotate.png">
+</div>
+	<div class="surface-detail">
+		<h2 class="company-name">赛文集团</h2>
+		<p>双轮驱动的数据资源</p>
+		<p>解决方案开发商</p>
+	</div>
+</div>
+<div class="items clearfix">
+	<div class="item item-one">
+	<a class="link" href='finance.html'></a>
+	<div class="item-content">
+		<div class="logo" ><img src='images/surface-logo.png'/></div>
+		<h2>FINANCE</h2>
+		<h3>智慧金融</h3>
+		<p> 科技驱动数据 智慧挖掘价值</p>
+		<span class='fa fa-fw fa-dollar'></span>
+	</div>
+		
+	</div>
+	<div class="item item-one ">
+	<a class="link" href='education.html'></a>
+	<div class="item-content item-two">
+		<h2>EDUCATION</h2>
+		<h3>智慧教育</h3>
+		<p>整合优质资源 建设智慧平台</p>
+		<span class='fa fa-fw fa-mortar-board'></span>
+	</div>
+	</div>
+	<div class="item item-one ">
+	<a class="link" href='view.html'></a>
+	<div class="item-content item-two">
+		<h2>SOLUTION</h2>
+		<h3>赛文之道</h3>
+		<p>格物明德   止于至善 </p>
+		<span class='fa fa-fw fa-send'></span>
+	</div>
+	</div>
+	<div class="item item-four item-one ">
+	<a class="link" href='join.html'></a>
+	<div class="item-content item-two">
+		<h2>OPPORTUNITY</h2>
+		<h3>加入赛文</h3>
+		<p>尊重您的价值 开发您的潜能</p>
+		<span class='fa fa-fw fa-plus-square'></span>
+	</div>
+	</div>
+</div>

@@ -1,0 +1,47 @@
+body{
+	overflow-x:hidden;
+}
+body,html{
+	background:#c3dcf7;
+	position:relative;
+	
+}
+.index-side .header{
+	width:270px;
+}
+.banner{background:url("../images/partner.jpg") no-repeat left top;background-size:cover;}
+.content{
+	// width:994px;
+	// margin:0 auto;
+	position:absolute;
+	left:250px;
+	top:320px;
+	.copartner{
+		margin-top:38px;
+		margin-left:55px;
+		height:250px;
+	}
+	.school{
+		margin-top:38px;
+		width:996px;
+		margin-left:100px;
+		ul{
+			list-style:none;
+			padding:0;
+			li{
+				float:left;
+				display:inline-block;
+				width:104px;
+				height:88px;
+				margin-right:22px;
+				margin-bottom:20px;
+			}
+			.clear-margin{
+				margin-right:0;
+			}
+		}
+	}
+}
+.index-content {
+   left: 0px!important;
+}

@@ -1,0 +1,45 @@
+body{
+	overflow-x:hidden;
+}
+body,html{
+	background:url("../images/grow-up.jpg") no-repeat left top;
+	background-size:cover;
+
+}
+.content{
+	position:relative;
+	width:1400px;
+	padding-top:86px;
+	padding-left:316px;
+	color:#fff;
+	h2{
+		margin:0;
+		font-size:38px;
+	}
+	.item{
+		position: absolute;
+		dd{
+			font-size:12px;
+			line-height:24px;
+		}
+	}
+	$left:316px 573px 573px 399px 812px  1011px 423px 714px 1100px 1003px;
+	$top:168px 206px 295px 326px 334px 220px 470px 492px 415px 544px;
+	$font-size:9px 11px 12px 13px 16px 17px 18px 20px 22px 24px;
+	$len:length($top);
+	$width:177px 192px 207px 143px 176px 288px 195px 222px 255px 260px;
+	@for $i from 1 through $len {
+	// @for $i from 1 through $len {
+		.item#{$i}{
+		// top:nth($top,$i);
+		top:-86px;
+		left:nth($left,$i);
+		dt{
+			font-size:nth($font-size,$i);
+		}
+		dd{
+			width:nth($width,$i);
+		}
+		}
+	}
+}

@@ -1,0 +1,38 @@
+.foot{
+position:absolute;
+z-index:20;
+top:auto;
+bottom:0px;
+padding-bottom:20px;
+background:#333;
+footer{
+	
+	.clearfix:before{
+		display:block;
+		clear:both;
+		content:"";
+		visibility:hidden;
+		height:0
+	}
+	.clearfix{
+		zoom:1;
+	}
+	dl{
+		margin-bottom:0;
+		color: #cdcdcd;
+		padding-left:36px;
+		font-size:12px;
+		dd{
+			float:left;
+			line-height:30px;
+			color:#cdcdcd;
+		}
+		dt{
+			float:left;
+			line-height:30px;
+			color:#cdcdcd;
+		}
+	}
+}
+	
+}

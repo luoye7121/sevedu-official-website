@@ -1,0 +1,12 @@
+body, html {
+  overflow-x: hidden; }
+
+.finances .item1 {
+  position: relative;
+  background: url(../images/wisdom.jpg) no-repeat 0 0;
+  background-size: cover; }
+
+.finances .item2 {
+  position: relative;
+  background: url(../images/wisdom.jpg) no-repeat 0 0;
+  background-size: cover; }

@@ -1,0 +1,69 @@
+/*!Utilities/Sprites合成精灵图*/
+@import  "compass/utilities/sprites";//精灵图插件
+@import "icons/*.png";//需要转换的精灵图片
+                     
+$icons-sprite-dimensions:true;
+@include all-icons-sprites;//引用生成的图片类
+
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";//字体图标
+/**
+ * !Vendor
+ */
+@import 
+"compass"
+,"susy"
+,"normalize-version"
+,"normalize/base"
+, "normalize/links"
+, "normalize/html5"
+;
+/**
+ * !Helpers
+ */
+// @import
+//  "helpers/variables"
+//  ;
+ /**
+ * !Layout公共样式
+ */
+// @import
+// 	"layout/main"
+// 	;
+ /**
+ * !Componets
+ */
+// @import 
+//  "componets/alert"
+//  ,"componets/pop-stripe"
+//  ,"componets/banner"
+//  ;
+ /*
+  !Pages
+  */
+@import "pages/index"
+,"pages/surface"
+,"pages/side"
+;
+/*
+*!Base
+*/
+@import 
+ "base/head"
+,"base/foot"
+;
+
+body{
+	width:100%;
+	height:100%;
+	font-family:"Microsoft YaHei", serif,"source-sans-pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.clearfix:after{
+	display:block;
+	content:"";
+	clear:both;
+	height:0;
+	visibility:hidden;
+}
+.clearfix{
+	*zoom:1;
+}

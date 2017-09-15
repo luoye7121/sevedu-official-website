@@ -1,0 +1,6 @@
+body{
+	overflow-x:hidden;
+}
+.news{
+	padding:288px 0 0 316px;
+}

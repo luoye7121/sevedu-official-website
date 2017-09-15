@@ -1,0 +1,149 @@
+body{
+	overflow-x:hidden;
+}
+body,html{
+	background:none;
+}
+.banner{background:url("../images/service.jpg") no-repeat left top;background-size:cover;}
+.content{
+	margin-left:316px;
+	margin-top:38px;
+	width:1028px;
+	.item{
+		margin-bottom: 20px;
+		border: 1px solid #c3c3c3;
+		overflow:hidden;
+		.mark{
+		float:left;
+		width:197px;
+		h2{
+			color:#fff;
+			margin:0;
+			width: 197px;
+			text-align:center;
+			vertical-align:middle;
+			display:table-cell;
+			i{
+				display:inline-block;
+				width:95px;
+				height:95px;
+				border:3px solid #fff;
+				border-radius:50%;
+			    color: #fff;
+			    line-height: 95px;
+			    font-size:50px;
+			}
+			span{
+				font-size:14px;
+				font-weight:normal;
+			}
+		}
+		}
+		.mark-one{
+			height:248px;
+			background:#c0665e;
+			line-height:248px;
+			h2{
+				height:248px;
+			}
+		}
+		.mark-two{
+			height:373px;
+			background:#1eb6e8;
+			line-height:373px;
+			h2{
+				height:373px;
+			}
+		}
+		.mark-three{
+			height:743px;
+			background:#f09604;
+			line-height:743px;
+			h2{
+				height:743px;
+			}
+		}
+		.mark-four{
+			height:393px;
+			background:#98d24a;
+			line-height:393px;
+			h2{
+				height:393px;
+			}
+		}
+		.mark-five{
+			height:248px;
+			background:#ff897f;
+			line-height:248px;
+			h2{
+				height:248px;
+			}
+		}
+		.mark-six{
+			height:424px;
+			background:#5094e7;
+			line-height:424px;
+			h2{
+				height:424px;
+			}
+		}
+		.feature{
+			float:left;
+			td{
+				width: 260px;
+				padding-left: 34px;
+				font-size: 16px;
+				color: #333;
+				padding-bottom: 22px;
+			}
+			span{
+				display: block;
+				font-size: 24px;
+				padding-top: 13px;
+				padding-bottom: 18px;
+			}
+		}
+		.feature-one{
+			height:248px;
+			overflow:hidden;
+			span{
+				color:#c0665e;
+			}
+		}
+		.feature-two{
+			height:373px;
+			overflow:hidden;
+			span{
+				color:#1eb6e8;
+			}
+		}
+		.feature-three{
+			height:743px;
+			overflow:hidden;
+			span{
+				color:#f09604;
+			}
+		}
+		.feature-four{
+			height:393px;
+			overflow:hidden;
+			span{
+				color:#98d24a;
+			}
+		}
+		.feature-five{
+			height:248px;
+			overflow:hidden;
+			span{
+				color:#ff897f;
+			}
+		}
+		.feature-six{
+			height:424px;
+			overflow:hidden;
+			span{
+				color:#5094e7;
+			}
+		}
+	}
+}

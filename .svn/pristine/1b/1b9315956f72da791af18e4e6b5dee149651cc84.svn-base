@@ -1,0 +1,55 @@
+<div class="index-side">
+<div class='header'>
+<p class="index-logo"><a href=""><img src="images/logo.jpg"></a></p>
+	<ol id='index-nav'>
+		
+		<li class='index-sub'><a href="index.html"><i class='fa fa-fw fa-home'></i>首页</a></li>
+		<li class='index-sub'><a href="strategy.html"><i class='fa fa-fw fa-puzzle-piece'></i>集团战略</a></li>
+		<li class='index-sub'><a href="finance.html"><i class='fa fa-fw fa-usd'></i>智慧金融</a></li>
+		<li class='index-sub'><a href="education.html"><i class='fa fa-fw fa-graduation-cap'></i>智慧教育</a></li>
+		<li class='index-sub'><a href="road.html"><i class='fa fa-fw fa-send'></i>赛文之道</a></li>
+		<li class='index-sub'>
+		<a href="partner.html"><i class='fa fa-fw fa-user'></i>合作伙伴</a>
+		</li>
+		<li class='index-sub'><a href="service.html"><i class='fa fa-fw fa-headphones'></i>金牌服务</a></li>
+		<li class='index-sub'>
+			<a href="view.html"><i class='fa fa-fw fa-plus'></i>关于我们</a>
+			<ol class='index-sub-nav' data-flag='false'>
+				<li><a href="view.html">赛文概览<span></span></a></li>
+				<li><a href="growth.html">成长历程<span></span></a></li>
+				<li><a href="new.html">赛文动态<span></span></a></li>
+				<li><a href="join.html">加入赛文<span></span></a></li>
+				<li><a href="contactus.html">联系我们<span></span></a></li>
+			</ol>
+		</li>
+		<li class='index-sub'><a href="newdetail.html">新闻详情<span></span></a></li>
+	</ol>
+	
+</div>
+<div class="foot">
+	<div class='footer'>
+	<!-- 	<dl class='clearfix'>
+		<dt>地址：</dt>
+		<dd style='color:#fff'>中国·北京朝阳区企发大<br/>厦A座5-6层</dd>
+	    </dl>
+	    <dl class="clearfix">
+	    <dt>邮编：</dt>
+		<dd>100029</dd>
+		</dl> -->
+		<!-- <dl class="clearfix">
+		<dt>电话：</dt>
+		<dd>86-10-62766288</dd>
+		</dl>
+		<dl class="clearfix">
+		<dt>传真:</dt>
+		<dd>86-10-84427877</dd>
+		</dl> -->
+		<dl class="clearfix">
+		<!-- <dt>邮箱:</dt>
+		<dd>sservice@sevedu.com</dd> -->
+		<dd style='color:#999'><img src='images/copyright.png'/>赛文集团 版权所有<br/>
+京ICP备08011557号</dd>
+	</dl>
+</div>
+</div>
+</div>

@@ -1,0 +1,28 @@
+<<<<<<< .mine
+$(function(){
+	//使页面导航恢复到点击之前的状态
+	function subNAV(){
+		$('#index-nav').find(".index-sub").eq(parseInt($.cookie("nav-position"))).find('.index-sub-nav').css({"height":$.cookie("nav-height")});
+	}
+	subNAV();
+	//侧导航点击展开
+	var $subNav=$('#index-nav').find(".index-sub");
+		$subNav.each(function(index,element){
+			$(this).click(function(){
+				//保存当前点击按钮的状态
+				var $height=$(this).find(".index-sub-nav").find('li').eq(0).height()*$(this).find(".index-sub-nav").find('li').length+"px";
+				$.cookie("nav-position", index, { 
+          			path: "/", expires: 1
+        			});
+				$.cookie("nav-height", $height, { 
+          			path: "/", expires: 1 
+        			});
+				$(this).find('.index-sub-nav')
+				.animate({height:$height},'normal');
+				$(this).siblings().find(".index-sub-nav")
+				.animate({height:0},'normal');
+			});
+		});
+});||||||| .r0
+=======
+$(function(){!function(){$("#index-nav").find(".index-sub").eq(parseInt($.cookie("nav-position"))).find(".index-sub-nav").css({height:$.cookie("nav-height")})}(),$("#index-nav").find(".index-sub").each(function(i,n){$(this).click(function(){var n=$(this).find(".index-sub-nav").find("li").eq(0).height()*$(this).find(".index-sub-nav").find("li").length+"px";$.cookie("nav-position",i,{path:"/",expires:1}),$.cookie("nav-height",n,{path:"/",expires:1}),$(this).find(".index-sub-nav").animate({height:n},"normal"),$(this).siblings().find(".index-sub-nav").animate({height:0},"normal")})})});>>>>>>> .r2718

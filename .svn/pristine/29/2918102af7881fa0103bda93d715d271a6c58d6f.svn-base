@@ -1,0 +1,16 @@
+body{
+	overflow-x:hidden;
+}
+body,html{
+	
+	width:100%;
+	height:100%;
+	background-size:cover;
+	position:relative;
+}
+.index-content .index-side header{
+	width:270px;
+}
+.index-content .index-side{
+	left:0;
+}
